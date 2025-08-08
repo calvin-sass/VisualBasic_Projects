@@ -1,0 +1,17 @@
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\HealthcareBudgetManager.frmMain.resources
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\HealthcareBudgetManager.frmCoverage.resources
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\HealthcareBudgetManager.vbproj.GenerateResource.cache
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\HealthcareBudgetManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\HealthcareBudgetManager.AssemblyInfoInputs.cache
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\HealthcareBudgetManager.AssemblyInfo.vb
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\HealthcareBudgetManager.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\bin\Debug\net9.0-windows\HealthcareBudgetManager.exe
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\bin\Debug\net9.0-windows\HealthcareBudgetManager.deps.json
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\bin\Debug\net9.0-windows\HealthcareBudgetManager.runtimeconfig.json
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\bin\Debug\net9.0-windows\HealthcareBudgetManager.dll
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\bin\Debug\net9.0-windows\HealthcareBudgetManager.pdb
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\HealthcareBudgetManager.dll
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\refint\HealthcareBudgetManager.dll
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\HealthcareBudgetManager.pdb
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\HealthcareBudgetManager.genruntimeconfig.cache
+C:\Users\user\Documents\ICT3611_Sandbox\HealthcareBudgetManager\obj\Debug\net9.0-windows\ref\HealthcareBudgetManager.dll

@@ -1,0 +1,5 @@
+﻿Dental Checkup, 150.00
+Doctor Visit, 180.00
+Eye Exam, 125.00
+Health Insurance Premium, 285.00
+Prescription Medication, 35.00

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\ICT3611_Sandbox\\HealthcareBudgetManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA0E32E-6FD2-4724-AF36-2F892DC71A66}|HealthcareBudgetManager.vbproj|c:\\users\\user\\documents\\ict3611_sandbox\\healthcarebudgetmanager\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2FA0E32E-6FD2-4724-AF36-2F892DC71A66}|HealthcareBudgetManager.vbproj|solutionrelative:frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA0E32E-6FD2-4724-AF36-2F892DC71A66}|HealthcareBudgetManager.vbproj|c:\\users\\user\\documents\\ict3611_sandbox\\healthcarebudgetmanager\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2FA0E32E-6FD2-4724-AF36-2F892DC71A66}|HealthcareBudgetManager.vbproj|solutionrelative:frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA0E32E-6FD2-4724-AF36-2F892DC71A66}|HealthcareBudgetManager.vbproj|c:\\users\\user\\documents\\ict3611_sandbox\\healthcarebudgetmanager\\frmcoverage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2FA0E32E-6FD2-4724-AF36-2F892DC71A66}|HealthcareBudgetManager.vbproj|solutionrelative:frmcoverage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA0E32E-6FD2-4724-AF36-2F892DC71A66}|HealthcareBudgetManager.vbproj|c:\\users\\user\\documents\\ict3611_sandbox\\healthcarebudgetmanager\\frmcoverage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2FA0E32E-6FD2-4724-AF36-2F892DC71A66}|HealthcareBudgetManager.vbproj|solutionrelative:frmcoverage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCoverage.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\ICT3611_Sandbox\\HealthcareBudgetManager\\frmCoverage.vb",
+              "RelativeDocumentMoniker": "frmCoverage.vb",
+              "ToolTip": "C:\\Users\\user\\Documents\\ICT3611_Sandbox\\HealthcareBudgetManager\\frmCoverage.vb",
+              "RelativeToolTip": "frmCoverage.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T15:30:47.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\ICT3611_Sandbox\\HealthcareBudgetManager\\frmMain.vb",
+              "RelativeDocumentMoniker": "frmMain.vb",
+              "ToolTip": "C:\\Users\\user\\Documents\\ICT3611_Sandbox\\HealthcareBudgetManager\\frmMain.vb",
+              "RelativeToolTip": "frmMain.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T15:24:13.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCoverage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\ICT3611_Sandbox\\HealthcareBudgetManager\\frmCoverage.vb",
+              "RelativeDocumentMoniker": "frmCoverage.vb",
+              "ToolTip": "C:\\Users\\user\\Documents\\ICT3611_Sandbox\\HealthcareBudgetManager\\frmCoverage.vb [Design]",
+              "RelativeToolTip": "frmCoverage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T15:18:18.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\ICT3611_Sandbox\\HealthcareBudgetManager\\frmMain.vb",
+              "RelativeDocumentMoniker": "frmMain.vb",
+              "ToolTip": "C:\\Users\\user\\Documents\\ICT3611_Sandbox\\HealthcareBudgetManager\\frmMain.vb [Design]",
+              "RelativeToolTip": "frmMain.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T14:48:02.367Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

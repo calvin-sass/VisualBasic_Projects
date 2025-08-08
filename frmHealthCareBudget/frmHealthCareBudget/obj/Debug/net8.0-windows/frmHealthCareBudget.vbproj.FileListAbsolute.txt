@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\frmHealthCareBudget.frmHealthCareBudget.resources
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\frmHealthCareBudget.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\frmHealthCareBudget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\frmHealthCareBudget.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\frmHealthCareBudget.AssemblyInfo.vb
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\frmHealthCareBudget.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\bin\Debug\net8.0-windows\frmHealthCareBudget.exe
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\bin\Debug\net8.0-windows\frmHealthCareBudget.deps.json
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\bin\Debug\net8.0-windows\frmHealthCareBudget.runtimeconfig.json
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\bin\Debug\net8.0-windows\frmHealthCareBudget.dll
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\bin\Debug\net8.0-windows\frmHealthCareBudget.pdb
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\frmHealthCareBudget.dll
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\refint\frmHealthCareBudget.dll
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\frmHealthCareBudget.pdb
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\frmHealthCareBudget.genruntimeconfig.cache
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\obj\Debug\net8.0-windows\ref\frmHealthCareBudget.dll
+C:\Users\user\source\repos\frmHealthCareBudget\frmHealthCareBudget\bin\Debug\net8.0-windows\Healthcare.txt
